@@ -29,7 +29,7 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
-**Stage:** E04 exploratory 45-day assessment executed on 16 condition-specific series. Graph verification and integration of earlier evidence blocks remain open. E05 will investigate cultivation compatibility.
+**Stage:** E07 exploratory evidence-aware material selection executed. Local matched evidence remains required before definitive selection. Next E08 — uncertainty and sensitivity analysis.
 
 ## Progress tracker
 
@@ -42,3 +42,7 @@ Original third-party papers and workbooks are retained separately; numerical tra
 ## E04 results
 
 [Scientific report](docs/E04_45_Day_Strength_Retention_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E04_45_Day_Strength_Retention.ipynb) · [Day-45 estimates](outputs/E04/day45_estimates.csv)
+
+## E05–E07 results
+
+[E05 cultivation compatibility](docs/E05_Cultivation_Compatibility_Report.md) · [E06 techno-economic assessment](docs/E06_Techno_Economic_Environmental_Assessment.md) · [Executed E06 notebook](notebooks/E06_Techno_Economic_Environmental_Assessment.ipynb) · [E07 selection report](docs/E07_Multi_Objective_Material_Selection_Report.md) · [E07 Colab](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E07_Multi_Objective_Material_Selection.ipynb)
