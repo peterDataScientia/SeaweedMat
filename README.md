@@ -28,3 +28,7 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
 **Stage:** E01 in progress. Initial literature extraction is complete; remaining figure digitisation and verification precede modelling.
+
+## Progress tracker
+
+[Interactive research checklist](https://github.com/peterDataScientia/SeaweedMat/issues/1)
