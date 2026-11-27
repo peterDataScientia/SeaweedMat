@@ -1,0 +1,8 @@
+study,uploaded_file,source_locator,endpoint,extraction_status,scope_note
+Araya-Schmidt & Queirolo 2019,1890-11398-1-PB.pdf,Tables 1 and 2; PDF pp2-3,Breaking force kgf and CV,45 exact aggregate rows,Twine; lab seawater; dried before testing; Table 3 jute 3 day56 differs from Table 2 (30.0 vs 29.9 kgf)
+Zhou et al. 2019,IOTC-2019-WPEB15-38.pdf,Table 1 p4; strength graph p5,Breaking strength N/ktex,16 approximate points,Rope; field; preserve months; caption Fig.2 vs text Fig.3; publication overlap to assess
+Moreno et al. 2019,I7T58UXC - Technical and Meeting Reports  International Seaf.pdf,Figs 5-6; PDF pp13-14,String/strand breaking strength,Identified; digitisation pending,Keep specimen scales and lagoon/offshore separate; no assumed baseline
+Le Gué et al. 2023,LeGue2023.pdf,"Figs 5, 12; Table 1",Monofilament and rope load at break; temperature,Identified; numeric extraction pending,Accepted manuscript has faint/missing plot tick labels on rendered Fig.12; verify accessible version
+Chamley et al. 2025,118966.pdf,"Figs 6,8,11; PDF p6 and subsequent pages",Yarn and rope retention; mineralisation,7 approximate rope points; other endpoints pending,Biotic/abiotic distinct; yarn and rope separate; mineralisation not mechanical retention
+Le Gué et al. 2024,113967.pdf,Figs 10-12; Table 6,Dry/wet load; retting; LCA,Identified; numeric extraction pending,Retting before fabrication is not marine service ageing; functional unit pearl chaplet
+Sobuj et al. 2023,41598_2023_Article_28675.pdf,Results: effect of rope material; Fig.1,G. longissima biomass and daily growth rate,Identified; full numeric extraction pending,"Biological outcomes, not mechanical strength; different species and location"
