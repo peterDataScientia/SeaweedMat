@@ -1,0 +1,9 @@
+material,trial_priority,local_load,local_life,local_yield,local_price,local_lca,decision
+Cotton,priority matched local trial,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Jute,conditional trial; conflicting context,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Sisal,lower attachment priority,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Coir,secondary exploratory trial,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Rayon,exploratory; biological data needed,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+PBS/PBAT,exploratory; short-term data needed,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Polypropylene,reference control,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
+Nylon,reference control,missing,missing,missing,missing,missing,trial prioritisation only; full selection withheld
