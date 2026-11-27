@@ -1,0 +1,6 @@
+model,MAE_pp,RMSE_pp,bias_pp,n_external_timepoints
+constant,23.982472,32.446593,23.982472,2
+first_order,14.150128,15.359501,5.973957,2
+lag_first_order,10.997639,14.128708,10.997639,2
+weibull,12.062982,16.539246,12.062982,2
+zero_order,13.628198,14.9989,6.264122,2
