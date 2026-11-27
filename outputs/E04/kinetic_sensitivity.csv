@@ -1,0 +1,47 @@
+series_id,label,stratum,target_day,model,predicted_retention_pct,interpolation_pct,difference_pp,boundary_flag
+AQ19_Twisted_jute_6_d0|lab natural seawater; dried before tensile test|,Twisted jute 6,exact_table_primary,45,zero_order,100,118.746143,-18.746143,true
+AQ19_Twisted_jute_6_d0|lab natural seawater; dried before tensile test|,Twisted jute 6,exact_table_primary,45,first_order,100,118.746143,-18.746143,true
+AQ19_Twisted_jute_6_d0|lab natural seawater; dried before tensile test|,Twisted jute 6,exact_table_primary,45,weibull,100,118.746143,-18.746143,true
+AQ19_Twisted_jute_6_d0|lab natural seawater; dried before tensile test|,Twisted jute 6,exact_table_primary,45,lag_first_order,99.90297,118.746143,-18.843173,false
+AQ19_Twisted_jute_3_d0|lab natural seawater; dried before tensile test|,Twisted jute 3,exact_table_primary,45,zero_order,95.426473,97.228214,-1.801741,false
+AQ19_Twisted_jute_3_d0|lab natural seawater; dried before tensile test|,Twisted jute 3,exact_table_primary,45,first_order,95.459115,97.228214,-1.769099,false
+AQ19_Twisted_jute_3_d0|lab natural seawater; dried before tensile test|,Twisted jute 3,exact_table_primary,45,weibull,95.901143,97.228214,-1.327071,true
+AQ19_Twisted_jute_3_d0|lab natural seawater; dried before tensile test|,Twisted jute 3,exact_table_primary,45,lag_first_order,97.256805,97.228214,0.028591,false
+AQ19_Twisted_jute_2_d0|lab natural seawater; dried before tensile test|,Twisted jute 2,exact_table_primary,45,zero_order,81.349027,85.751929,-4.402902,false
+AQ19_Twisted_jute_2_d0|lab natural seawater; dried before tensile test|,Twisted jute 2,exact_table_primary,45,first_order,81.502389,85.751929,-4.24954,false
+AQ19_Twisted_jute_2_d0|lab natural seawater; dried before tensile test|,Twisted jute 2,exact_table_primary,45,weibull,82.140497,85.751929,-3.611431,false
+AQ19_Twisted_jute_2_d0|lab natural seawater; dried before tensile test|,Twisted jute 2,exact_table_primary,45,lag_first_order,81.190854,85.751929,-4.561075,false
+AQ19_Twisted_cotton_5_d0|lab natural seawater; dried before tensile test|,Twisted cotton 5,exact_table_primary,45,zero_order,69.465812,65.976286,3.489527,false
+AQ19_Twisted_cotton_5_d0|lab natural seawater; dried before tensile test|,Twisted cotton 5,exact_table_primary,45,first_order,71.231338,65.976286,5.255052,false
+AQ19_Twisted_cotton_5_d0|lab natural seawater; dried before tensile test|,Twisted cotton 5,exact_table_primary,45,weibull,70.819163,65.976286,4.842877,true
+AQ19_Twisted_cotton_5_d0|lab natural seawater; dried before tensile test|,Twisted cotton 5,exact_table_primary,45,lag_first_order,64.752072,65.976286,-1.224214,false
+AQ19_Twisted_cotton_3_d0|lab natural seawater; dried before tensile test|,Twisted cotton 3,exact_table_primary,45,zero_order,90.417893,88.948857,1.469036,false
+AQ19_Twisted_cotton_3_d0|lab natural seawater; dried before tensile test|,Twisted cotton 3,exact_table_primary,45,first_order,90.484356,88.948857,1.535499,false
+AQ19_Twisted_cotton_3_d0|lab natural seawater; dried before tensile test|,Twisted cotton 3,exact_table_primary,45,weibull,90.332673,88.948857,1.383816,false
+AQ19_Twisted_cotton_3_d0|lab natural seawater; dried before tensile test|,Twisted cotton 3,exact_table_primary,45,lag_first_order,89.291141,88.948857,0.342284,false
+AQ19_Twisted_cotton_2_d0|lab natural seawater; dried before tensile test|,Twisted cotton 2,exact_table_primary,45,zero_order,54.883643,47.719357,7.164286,false
+AQ19_Twisted_cotton_2_d0|lab natural seawater; dried before tensile test|,Twisted cotton 2,exact_table_primary,45,first_order,58.485181,47.719357,10.765824,false
+AQ19_Twisted_cotton_2_d0|lab natural seawater; dried before tensile test|,Twisted cotton 2,exact_table_primary,45,weibull,52.129273,47.719357,4.409916,false
+AQ19_Twisted_cotton_2_d0|lab natural seawater; dried before tensile test|,Twisted cotton 2,exact_table_primary,45,lag_first_order,46.035406,47.719357,-1.683951,false
+AQ19_Braided_cotton_5_d0|lab natural seawater; dried before tensile test|,Braided cotton 5,exact_table_primary,45,zero_order,85.646687,84.619286,1.027402,false
+AQ19_Braided_cotton_5_d0|lab natural seawater; dried before tensile test|,Braided cotton 5,exact_table_primary,45,first_order,85.782154,84.619286,1.162868,false
+AQ19_Braided_cotton_5_d0|lab natural seawater; dried before tensile test|,Braided cotton 5,exact_table_primary,45,weibull,85.852664,84.619286,1.233378,false
+AQ19_Braided_cotton_5_d0|lab natural seawater; dried before tensile test|,Braided cotton 5,exact_table_primary,45,lag_first_order,84.831128,84.619286,0.211842,false
+AQ19_Braided_cotton_3_d0|lab natural seawater; dried before tensile test|,Braided cotton 3,exact_table_primary,45,zero_order,71.831688,71.083214,0.748473,false
+AQ19_Braided_cotton_3_d0|lab natural seawater; dried before tensile test|,Braided cotton 3,exact_table_primary,45,first_order,72.361532,71.083214,1.278317,false
+AQ19_Braided_cotton_3_d0|lab natural seawater; dried before tensile test|,Braided cotton 3,exact_table_primary,45,weibull,71.782685,71.083214,0.699471,false
+AQ19_Braided_cotton_3_d0|lab natural seawater; dried before tensile test|,Braided cotton 3,exact_table_primary,45,lag_first_order,70.167664,71.083214,-0.91555,false
+AQ19_Braided_cotton_2_d0|lab natural seawater; dried before tensile test|,Braided cotton 2,exact_table_primary,45,zero_order,71.216473,69.612286,1.604187,false
+AQ19_Braided_cotton_2_d0|lab natural seawater; dried before tensile test|,Braided cotton 2,exact_table_primary,45,first_order,71.966049,69.612286,2.353764,false
+AQ19_Braided_cotton_2_d0|lab natural seawater; dried before tensile test|,Braided cotton 2,exact_table_primary,45,weibull,71.238337,69.612286,1.626051,false
+AQ19_Braided_cotton_2_d0|lab natural seawater; dried before tensile test|,Braided cotton 2,exact_table_primary,45,lag_first_order,68.818812,69.612286,-0.793474,false
+ZH19_Cotton_m0|East China Sea field exposure|,Zhou Cotton,graph_common_supplementary,45,zero_order,87.428986,74.784761,12.644225,false
+ZH19_Cotton_m0|East China Sea field exposure|,Zhou Cotton,graph_common_supplementary,45,first_order,83.679281,74.784761,8.89452,false
+ZH19_Cotton_m0|East China Sea field exposure|,Zhou Cotton,graph_common_supplementary,45,weibull,71.908087,74.784761,-2.876674,false
+ZH19_Cotton_m0|East China Sea field exposure|,Zhou Cotton,graph_common_supplementary,45,lag_first_order,83.679281,74.784761,8.89452,true
+ZH19_Jute_m0|East China Sea field exposure|,Zhou Jute,graph_simple_supplementary,45,zero_order,0.972797,25.961145,-24.988348,false
+ZH19_Jute_m0|East China Sea field exposure|,Zhou Jute,graph_simple_supplementary,45,first_order,22.549818,25.961145,-3.411327,false
+ZH19_Sisal_m0|East China Sea field exposure|,Zhou Sisal,graph_simple_supplementary,45,zero_order,42.040909,39.844928,2.195981,false
+ZH19_Sisal_m0|East China Sea field exposure|,Zhou Sisal,graph_simple_supplementary,45,first_order,37.211068,39.844928,-2.63386,false
+CH25_ray_baseline|renewed natural seawater|15,Rayon biotic,graph_simple_supplementary,45,zero_order,76.897807,68.271497,8.62631,false
+CH25_ray_baseline|renewed natural seawater|15,Rayon biotic,graph_simple_supplementary,45,first_order,64.770661,68.271497,-3.500837,false
