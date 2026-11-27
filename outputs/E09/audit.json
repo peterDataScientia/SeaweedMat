@@ -1,0 +1,16 @@
+{
+  "source_parameter_blob": "0338e9f3a58172c329ababc7ee6c8669a1547734",
+  "archive_sha256": {
+    "cotton": "59607bf8f99fb92dfbf936c156c355c6c3ddbb567c5bb2ee8142917d35da6aa8",
+    "film": "fa2c4cdfcfd80246bafea5b951e507d180627d7dfd49e18ee4c9522d30a6e542"
+  },
+  "cotton_records": 48,
+  "marine_test_records": 16,
+  "marine_group_means": 2,
+  "film_records": 100,
+  "film_force_valid": 79,
+  "film_area_valid": 80,
+  "frozen_predictions": 70,
+  "matched_rope_external_validation": false,
+  "python_js_RMSE_check_max_difference": 3.81476688460225e-7
+}
