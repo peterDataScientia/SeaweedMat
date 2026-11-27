@@ -1,0 +1,5 @@
+model,global_front,cotton_front,passes_80pct_200N
+zero_order,Twisted jute 6,Twisted cotton 3;Braided cotton 5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5
+first_order,Twisted jute 6,Twisted cotton 3;Braided cotton 5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5
+weibull,Twisted jute 6,Twisted cotton 3;Braided cotton 5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5
+lag_first_order,Twisted jute 6,Twisted cotton 3;Braided cotton 5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5
