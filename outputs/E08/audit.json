@@ -1,0 +1,180 @@
+{
+  "grid_nonempty": {
+    "nominal": 25,
+    "model_low": 20,
+    "source_stress_low": 20,
+    "envelope_low": 20
+  },
+  "default_case": [
+    {
+      "min_retention_pct": 80,
+      "min_breaking_force_N": 200,
+      "stress_case": "nominal",
+      "n_candidates": 4,
+      "candidates": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5",
+      "status": "illustrative; not working-load certification"
+    },
+    {
+      "min_retention_pct": 80,
+      "min_breaking_force_N": 200,
+      "stress_case": "model_low",
+      "n_candidates": 4,
+      "candidates": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5",
+      "status": "illustrative; not working-load certification"
+    },
+    {
+      "min_retention_pct": 80,
+      "min_breaking_force_N": 200,
+      "stress_case": "source_stress_low",
+      "n_candidates": 2,
+      "candidates": "Twisted jute 6;Twisted cotton 3",
+      "status": "illustrative; not working-load certification"
+    },
+    {
+      "min_retention_pct": 80,
+      "min_breaking_force_N": 200,
+      "stress_case": "envelope_low",
+      "n_candidates": 2,
+      "candidates": "Twisted jute 6;Twisted cotton 3",
+      "status": "illustrative; not working-load certification"
+    }
+  ],
+  "certified_nondominated": [
+    "Twisted jute 6"
+  ],
+  "coverage": [
+    {
+      "coating": "uncoated",
+      "all_units_cotton_minus_PP_pp": -22.407,
+      "flag_excluded_cotton_minus_PP_pp": 6.48,
+      "direction_reversed": true,
+      "cotton_remaining_n": 3,
+      "PP_remaining_n": 1,
+      "status": "exclusion sensitivity; not corrected estimate"
+    },
+    {
+      "coating": "alginate",
+      "all_units_cotton_minus_PP_pp": -1.429,
+      "flag_excluded_cotton_minus_PP_pp": 5.029,
+      "direction_reversed": true,
+      "cotton_remaining_n": 6,
+      "PP_remaining_n": 4,
+      "status": "exclusion sensitivity; not corrected estimate"
+    }
+  ],
+  "modelCases": [
+    {
+      "model": "zero_order",
+      "global_front": "Twisted jute 6",
+      "cotton_front": "Twisted cotton 3;Braided cotton 5",
+      "passes_80pct_200N": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5"
+    },
+    {
+      "model": "first_order",
+      "global_front": "Twisted jute 6",
+      "cotton_front": "Twisted cotton 3;Braided cotton 5",
+      "passes_80pct_200N": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5"
+    },
+    {
+      "model": "weibull",
+      "global_front": "Twisted jute 6",
+      "cotton_front": "Twisted cotton 3;Braided cotton 5",
+      "passes_80pct_200N": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5"
+    },
+    {
+      "model": "lag_first_order",
+      "global_front": "Twisted jute 6",
+      "cotton_front": "Twisted cotton 3;Braided cotton 5",
+      "passes_80pct_200N": "Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5"
+    }
+  ],
+  "economics": [
+    {
+      "lifetime_ratio": 0.25,
+      "scenarios": 12,
+      "at_or_below_reference": 0,
+      "min_cost_ratio": 1.666667,
+      "max_cost_ratio": 10,
+      "break_even_price_ratio_at_yield_0_8": 0.2,
+      "break_even_price_ratio_at_yield_1": 0.25,
+      "break_even_price_ratio_at_yield_1_2": 0.3,
+      "status": "grid count not probability"
+    },
+    {
+      "lifetime_ratio": 0.5,
+      "scenarios": 12,
+      "at_or_below_reference": 2,
+      "min_cost_ratio": 0.833333,
+      "max_cost_ratio": 5,
+      "break_even_price_ratio_at_yield_0_8": 0.4,
+      "break_even_price_ratio_at_yield_1": 0.5,
+      "break_even_price_ratio_at_yield_1_2": 0.6,
+      "status": "grid count not probability"
+    },
+    {
+      "lifetime_ratio": 1,
+      "scenarios": 12,
+      "at_or_below_reference": 5,
+      "min_cost_ratio": 0.416667,
+      "max_cost_ratio": 2.5,
+      "break_even_price_ratio_at_yield_0_8": 0.8,
+      "break_even_price_ratio_at_yield_1": 1,
+      "break_even_price_ratio_at_yield_1_2": 1.2,
+      "status": "grid count not probability"
+    },
+    {
+      "lifetime_ratio": 1.5,
+      "scenarios": 12,
+      "at_or_below_reference": 8,
+      "min_cost_ratio": 0.277778,
+      "max_cost_ratio": 1.666667,
+      "break_even_price_ratio_at_yield_0_8": 1.2,
+      "break_even_price_ratio_at_yield_1": 1.5,
+      "break_even_price_ratio_at_yield_1_2": 1.8,
+      "status": "grid count not probability"
+    },
+    {
+      "lifetime_ratio": 2,
+      "scenarios": 12,
+      "at_or_below_reference": 11,
+      "min_cost_ratio": 0.208333,
+      "max_cost_ratio": 1.25,
+      "break_even_price_ratio_at_yield_0_8": 1.6,
+      "break_even_price_ratio_at_yield_1": 2,
+      "break_even_price_ratio_at_yield_1_2": 2.4,
+      "status": "grid count not probability"
+    }
+  ],
+  "fully_evaluable": 0,
+  "inputs": [
+    {
+      "path": "data/E02/mechanical_ageing_core_v0.0.1.csv",
+      "sha": "1672c721aab19c8cb73bcb0b17e0aaffa925a69a"
+    },
+    {
+      "path": "outputs/E07/mechanical_pareto.csv",
+      "sha": "cbdd7cfb0e10e9b61b5052937fd568190cd50c3a"
+    },
+    {
+      "path": "outputs/E04/kinetic_sensitivity.csv",
+      "sha": "0d95dd8191573a08478ea720df15434f97e2d890"
+    },
+    {
+      "path": "outputs/E05/theobald_summary.csv",
+      "sha": "e0954ad3175663e0f827f7d3388388c6fb4ce226"
+    },
+    {
+      "path": "outputs/E05/theobald_contrasts.csv",
+      "sha": "e582d8c86c8d7a745d5c9ecb91eec3e4abbd0301"
+    },
+    {
+      "path": "outputs/E07/replacement_constraints.csv",
+      "sha": "cd8adafe4396b2042406dfa84175a92daca69915"
+    },
+    {
+      "path": "outputs/E07/integrated_decision_matrix.csv",
+      "sha": "16bc6f6efdefe9dde5dd2e297bc6775bdac91791"
+    }
+  ],
+  "limitations": "Stress ranges not probabilistic; SD derived from rounded CV; no independent local data; model envelopes do not combine simultaneous model and source uncertainty."
+}
