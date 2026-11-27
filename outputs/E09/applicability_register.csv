@@ -1,0 +1,4 @@
+source,independence_from_E03,material_match,specimen_match,endpoint_match,condition_match,decision
+Frainer_Tiegs_2022,yes,cotton only,no: strips vs twines and ropes,relative strength only,no,cross-domain stress test only
+Pauli_2017,yes,no: PE and MaterBi vs E03 formulations,no: film vs rope,mechanical retention only,no,exclude from rope predictions; endpoint distinction
+Matched Tanzanian farm trials,not available,unknown,unknown,unknown,unknown,local applicability not established
