@@ -1,0 +1,18 @@
+{
+  "records": 139,
+  "groups": {
+    "twine_ageing": 45,
+    "whole_rope_ageing": 26,
+    "component_ageing_no_zero_baseline": 48,
+    "monofilament_initial_properties": 2,
+    "monofilament_ageing": 1,
+    "water_saturation_not_service_ageing": 8,
+    "biological_performance_not_mechanical": 8,
+    "mineralisation_not_mechanical": 1
+  },
+  "core_records": 71,
+  "unique_ids": 139,
+  "source_count": 7,
+  "whisker_or_interval_records": 71,
+  "graph_records": 82
+}
