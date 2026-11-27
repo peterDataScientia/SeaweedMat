@@ -1,0 +1,6 @@
+lifetime_ratio,scenarios,at_or_below_reference,min_cost_ratio,max_cost_ratio,break_even_price_ratio_at_yield_0_8,break_even_price_ratio_at_yield_1,break_even_price_ratio_at_yield_1_2,status
+0.25,12,0,1.666667,10,0.2,0.25,0.3,grid count not probability
+0.5,12,2,0.833333,5,0.4,0.5,0.6,grid count not probability
+1,12,5,0.416667,2.5,0.8,1,1.2,grid count not probability
+1.5,12,8,0.277778,1.666667,1.2,1.5,1.8,grid count not probability
+2,12,11,0.208333,1.25,1.6,2,2.4,grid count not probability
