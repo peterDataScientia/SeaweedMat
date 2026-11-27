@@ -1,0 +1,17 @@
+material,alginate,endpoint,n_candidate,n_PP,mean_difference,boot_lo,boot_hi,interval_direction,status
+Cotton,False,density_cm2,6,6,-9.531,-22.605,5.583,crosses zero,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,False,relative_cover_pct,6,6,-22.407,-42.745,-0.842,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,False,longest_mm,6,6,-1.913,-4.119,0.384,crosses zero,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,False,combined_mm,6,6,3.221,-6.548,12.330,crosses zero,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,False,density_cm2,6,6,-38.791,-48.180,-25.878,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,False,relative_cover_pct,6,6,-65.736,-81.906,-46.220,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,False,longest_mm,6,6,-4.646,-6.852,-2.350,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,False,combined_mm,6,6,-17.734,-26.633,-9.325,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,True,density_cm2,6,6,19.414,12.169,26.760,positive,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,True,relative_cover_pct,6,6,-1.429,-12.407,9.920,crosses zero,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,True,longest_mm,6,6,-1.481,-3.007,0.058,crosses zero,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Cotton,True,combined_mm,6,6,-11.537,-16.139,-7.057,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,True,density_cm2,6,6,-13.314,-18.470,-7.658,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,True,relative_cover_pct,6,6,-30.112,-43.880,-15.983,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,True,longest_mm,6,6,-3.365,-4.631,-1.971,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
+Sisal,True,combined_mm,6,6,-22.709,-26.507,-18.964,negative,E05 exploratory marginal bootstrap interval; not adjusted; no equivalence inference
