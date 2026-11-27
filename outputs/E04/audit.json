@@ -1,0 +1,31 @@
+{
+  "target_day": 45,
+  "input_core_records": 71,
+  "series": 16,
+  "primary_exact_table": 9,
+  "supplementary_graph": 4,
+  "sparse_descriptive": 3,
+  "kinetic_predictions": 46,
+  "brackets_valid": true,
+  "source_blobs": [
+    {
+      "path": "data/E02/mechanical_ageing_core_v0.0.1.csv",
+      "sha": "1672c721aab19c8cb73bcb0b17e0aaffa925a69a"
+    },
+    {
+      "path": "outputs/E03/model_parameters.csv",
+      "sha": "0338e9f3a58172c329ababc7ee6c8669a1547734"
+    },
+    {
+      "path": "outputs/E03/series_audit.csv",
+      "sha": "72e6f30a5e62cf22fbb475df96b3d21833bea75a"
+    }
+  ],
+  "primary_retention_range": [
+    47.719357,
+    118.746143
+  ],
+  "primary_mechanical_pareto": [
+    "Twisted jute 6"
+  ]
+}
