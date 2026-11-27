@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "status": "source committed; runtime/deployment verification pending",
+  "source_checks": {
+    "series": 16,
+    "day45_interpolations_verified": 13,
+    "sparse_series_predictions_withheld": 3,
+    "nominal_80pct_200N": 4,
+    "envelope_80pct_200N": 2,
+    "model_rows": 59,
+    "external_metrics_rows": 5
+  },
+  "tests": "Independent JS checks executed against committed CSVs. Python pytest and Streamlit AppTest added to CI; results not yet confirmed.",
+  "limitations": [
+    "No local field validation",
+    "External graph readings provisional",
+    "No extrapolation or sparse-series prediction",
+    "No certified working load",
+    "No missing local cost/LCA/yield imputation",
+    "Matplotlib style inspired by approved Figentra settings; package not installed"
+  ]
+}
