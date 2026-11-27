@@ -29,8 +29,12 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
-**Stage:** E02 initial literature harmonisation completed. Unresolved graph axes, uncertainty verification and integration of the earlier workbooks/archives remain open before E03.
+**Stage:** E03 exploratory kinetic comparison executed on the initial 71-record mechanical core. Graph verification and integration of earlier evidence blocks remain open. E04 will estimate 45-day retention within supported conditions.
 
 ## Progress tracker
 
 [Interactive research checklist](https://github.com/peterDataScientia/SeaweedMat/issues/1)
+
+## E03 results
+
+[Scientific report](docs/E03_Kinetic_Validation_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E03_Marine_Ageing_Kinetics.ipynb) · [Benchmark metrics](outputs/E03/benchmark_metrics.csv)
