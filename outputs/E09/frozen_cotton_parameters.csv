@@ -1,0 +1,36 @@
+label,model,rate_scaled,time_scale_days,shape_or_lag_scaled
+Twisted cotton 5,constant,0,56,1
+Twisted cotton 5,zero_order,0.379981,56,1
+Twisted cotton 5,first_order,0.422162,56,1
+Twisted cotton 5,weibull,0.827508,56,4
+Twisted cotton 5,lag_first_order,1.860692,56,0.57
+Twisted cotton 3,constant,0,56,1
+Twisted cotton 3,zero_order,0.119244,56,1
+Twisted cotton 3,first_order,0.124436,56,1
+Twisted cotton 3,weibull,0.154046,56,1.9
+Twisted cotton 3,lag_first_order,0.204613,56,0.25
+Twisted cotton 2,constant,0,56,1
+Twisted cotton 2,zero_order,0.561448,56,1
+Twisted cotton 2,first_order,0.667516,56,1
+Twisted cotton 2,weibull,1.431491,56,3.6
+Twisted cotton 2,lag_first_order,2.325617,56,0.47
+Braided cotton 5,constant,0,56,1
+Braided cotton 5,zero_order,0.178619,56,1
+Braided cotton 5,first_order,0.190847,56,1
+Braided cotton 5,weibull,0.241449,56,2.1
+Braided cotton 5,lag_first_order,0.362694,56,0.35
+Braided cotton 3,constant,0,56,1
+Braided cotton 3,zero_order,0.350539,56,1
+Braided cotton 3,first_order,0.402572,56,1
+Braided cotton 3,weibull,0.524768,56,2.1
+Braided cotton 3,lag_first_order,0.764246,56,0.34
+Braided cotton 2,constant,0,56,1
+Braided cotton 2,zero_order,0.358195,56,1
+Braided cotton 2,first_order,0.409392,56,1
+Braided cotton 2,weibull,0.573217,56,2.4
+Braided cotton 2,lag_first_order,0.861895,56,0.37
+Zhou Cotton,constant,0,213.063,1
+Zhou Cotton,zero_order,0.595204,213.063,1
+Zhou Cotton,first_order,0.843629,213.063,1
+Zhou Cotton,weibull,0.66391,213.063,0.45
+Zhou Cotton,lag_first_order,0.843629,213.063,0
