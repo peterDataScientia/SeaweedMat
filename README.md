@@ -29,7 +29,7 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
-**Stage:** E08 deterministic uncertainty and sensitivity analysis executed. Local evidence remains missing; next E09 — independent evaluation.
+**Stage:** E09 external cross-specimen transfer stress test executed; matched local rope validation is outstanding. Next E10 — evidence-aware decision-support prototype.
 
 ## Progress tracker
 
@@ -50,3 +50,7 @@ Original third-party papers and workbooks are retained separately; numerical tra
 ## E08 results
 
 [Scientific report](docs/E08_Uncertainty_and_Sensitivity_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E08_Uncertainty_and_Sensitivity.ipynb) · [Audit](outputs/E08/audit.json)
+
+## E09 results
+
+[Scientific report](docs/E09_External_Transferability_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E09_External_Transferability.ipynb) · [Outputs](outputs/E09/)
