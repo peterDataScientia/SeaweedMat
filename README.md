@@ -29,7 +29,7 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
-**Stage:** E09 external cross-specimen transfer stress test executed; matched local rope validation is outstanding. Next E10 — evidence-aware decision-support prototype.
+**Stage:** E10 v0.1.0 source implementation committed; independent numerical data-path verification passed. Python runtime tests and deployment verification pending.
 
 ## Progress tracker
 
@@ -54,3 +54,12 @@ Original third-party papers and workbooks are retained separately; numerical tra
 ## E09 results
 
 [Scientific report](docs/E09_External_Transferability_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E09_External_Transferability.ipynb) · [Outputs](outputs/E09/)
+
+## E10 application
+
+[SeaweedMat app.py](app.py) · [Run and deployment guide](docs/E10_Application_Development.md) · [Build audit](outputs/E10/build_audit.json) · [Automated checks](https://github.com/peterDataScientia/SeaweedMat/actions)
+
+```bash
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+```
