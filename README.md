@@ -29,7 +29,7 @@ A 45-day cycle is a working evaluation horizon, not a universal farming requirem
 
 Original third-party papers and workbooks are retained separately; numerical transcriptions identify source locations. Third-party redistribution terms must be respected. No simulated observations are used to replace missing measurements.
 
-**Stage:** E07 exploratory evidence-aware material selection executed. Local matched evidence remains required before definitive selection. Next E08 — uncertainty and sensitivity analysis.
+**Stage:** E08 deterministic uncertainty and sensitivity analysis executed. Local evidence remains missing; next E09 — independent evaluation.
 
 ## Progress tracker
 
@@ -46,3 +46,7 @@ Original third-party papers and workbooks are retained separately; numerical tra
 ## E05–E07 results
 
 [E05 cultivation compatibility](docs/E05_Cultivation_Compatibility_Report.md) · [E06 techno-economic assessment](docs/E06_Techno_Economic_Environmental_Assessment.md) · [Executed E06 notebook](notebooks/E06_Techno_Economic_Environmental_Assessment.ipynb) · [E07 selection report](docs/E07_Multi_Objective_Material_Selection_Report.md) · [E07 Colab](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E07_Multi_Objective_Material_Selection.ipynb)
+
+## E08 results
+
+[Scientific report](docs/E08_Uncertainty_and_Sensitivity_Report.md) · [Colab notebook](https://colab.research.google.com/github/peterDataScientia/SeaweedMat/blob/main/notebooks/E08_Uncertainty_and_Sensitivity.ipynb) · [Audit](outputs/E08/audit.json)
