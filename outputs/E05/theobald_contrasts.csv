@@ -1,0 +1,17 @@
+material,alginate,endpoint,n_candidate,n_PP,mean_difference,boot_lo,boot_hi
+Cotton,False,density_cm2,6,6,-9.531,-22.605,5.583
+Cotton,False,relative_cover_pct,6,6,-22.407,-42.745,-0.842
+Cotton,False,longest_mm,6,6,-1.913,-4.119,0.384
+Cotton,False,combined_mm,6,6,3.221,-6.548,12.330
+Sisal,False,density_cm2,6,6,-38.791,-48.180,-25.878
+Sisal,False,relative_cover_pct,6,6,-65.736,-81.906,-46.220
+Sisal,False,longest_mm,6,6,-4.646,-6.852,-2.350
+Sisal,False,combined_mm,6,6,-17.734,-26.633,-9.325
+Cotton,True,density_cm2,6,6,19.414,12.169,26.760
+Cotton,True,relative_cover_pct,6,6,-1.429,-12.407,9.920
+Cotton,True,longest_mm,6,6,-1.481,-3.007,0.058
+Cotton,True,combined_mm,6,6,-11.537,-16.139,-7.057
+Sisal,True,density_cm2,6,6,-13.314,-18.470,-7.658
+Sisal,True,relative_cover_pct,6,6,-30.112,-43.880,-15.983
+Sisal,True,longest_mm,6,6,-3.365,-4.631,-1.971
+Sisal,True,combined_mm,6,6,-22.709,-26.507,-18.964
