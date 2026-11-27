@@ -1,0 +1,52 @@
+{
+  "mechanical_nominal_front": [
+    "Twisted jute 6"
+  ],
+  "mechanical_model_low_front": [
+    "Twisted jute 6"
+  ],
+  "cotton_nominal_front": [
+    "Twisted cotton 3",
+    "Braided cotton 5"
+  ],
+  "cotton_model_low_front": [
+    "Twisted cotton 3",
+    "Braided cotton 5"
+  ],
+  "threshold_scenarios": 25,
+  "nominal_nonempty": 25,
+  "model_low_nonempty": 20,
+  "biological_front": [
+    "uncoated: Polypropylene",
+    "uncoated: Cotton",
+    "alginate: Polypropylene",
+    "alginate: Cotton"
+  ],
+  "economic_scenarios": 60,
+  "economic_not_higher": 26,
+  "fully_evaluable_materials": 0,
+  "input_blobs": [
+    {
+      "path": "outputs/E04/primary_mechanical_comparison.csv",
+      "sha": "eb813e6325dc41d87f38564341fc850c03060a9f"
+    },
+    {
+      "path": "outputs/E05/material_evidence_matrix.csv",
+      "sha": "3a062a880af828c149827ce58526ed722a411ab6"
+    },
+    {
+      "path": "outputs/E05/theobald_summary.csv",
+      "sha": "e0954ad3175663e0f827f7d3388388c6fb4ce226"
+    },
+    {
+      "path": "outputs/E06/replacement_scenarios.csv",
+      "sha": "5bb0a21b45e717dcbfd6adff0ed41910c967ab90"
+    }
+  ],
+  "notes": [
+    "All thresholds illustrative; no farm-specific safe load established.",
+    "Model-low envelope is deterministic sensitivity, not a confidence bound.",
+    "Biological Pareto within coating and species only; cover excluded because of audit flags.",
+    "No imputation or complete cross-material utility score."
+  ]
+}
