@@ -1,0 +1,17 @@
+series_id,label,study,stratum,n_postbaseline,n_total_with_baseline,time_max_days,above_100,eligible_models,reason
+AQ19_Twisted_jute_6_d0|lab natural seawater; dried before tensile test|,Twisted jute 6,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,3,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Twisted_jute_3_d0|lab natural seawater; dried before tensile test|,Twisted jute 3,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,1,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Twisted_jute_2_d0|lab natural seawater; dried before tensile test|,Twisted jute 2,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,0,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Twisted_cotton_5_d0|lab natural seawater; dried before tensile test|,Twisted cotton 5,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,2,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Twisted_cotton_3_d0|lab natural seawater; dried before tensile test|,Twisted cotton 3,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,1,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Twisted_cotton_2_d0|lab natural seawater; dried before tensile test|,Twisted cotton 2,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,1,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Braided_cotton_5_d0|lab natural seawater; dried before tensile test|,Braided cotton 5,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,1,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Braided_cotton_3_d0|lab natural seawater; dried before tensile test|,Braided cotton 3,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,0,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+AQ19_Braided_cotton_2_d0|lab natural seawater; dried before tensile test|,Braided cotton 2,ArayaSchmidt_Queirolo_2019,exact_table_primary,4,5,56,1,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+ZH19_Cotton_m0|East China Sea field exposure|,Zhou Cotton,Zhou_2019,graph_common_supplementary,7,8,213.063,0,constant;zero_order;first_order;weibull;lag_first_order,within-series exploratory
+ZH19_Jute_m0|East China Sea field exposure|,Zhou Jute,Zhou_2019,graph_simple_supplementary,3,4,91.313,0,constant;zero_order;first_order,within-series exploratory
+ZH19_Sisal_m0|East China Sea field exposure|,Zhou Sisal,Zhou_2019,graph_simple_supplementary,3,4,91.313,0,constant;zero_order;first_order,within-series exploratory
+CH25_ray_baseline|renewed natural seawater|15,Rayon biotic,Chamley_2025,graph_simple_supplementary,3,4,182.625,0,constant;zero_order;first_order,within-series exploratory
+CH25_ray_baseline|sterilised seawater with antibiotics|15,Rayon abiotic,Chamley_2025,sparse_descriptive,2,3,182.625,0,,fewer than three postbaseline points
+LG23_rope_unaged|renewed natural seawater|15,PBS/PBAT 15 C,LeGue_2023,sparse_descriptive,1,2,365.25,1,,fewer than three postbaseline points
+LG23_rope_unaged|renewed natural seawater|40,PBS/PBAT 40 C,LeGue_2023,sparse_descriptive,2,3,273.938,0,,fewer than three postbaseline points
