@@ -1,0 +1,9 @@
+material,coating,density,combined_length,longest_length,cover_ratio,cover_flagged,cover_sensitivity_n,cover_sensitivity_mean,biological_front_three_endpoints,biological_front_density_combined,cover_used_in_primary
+Nylon,uncoated,12.613,21.933,7.735,56.184,0,6,56.184,false,false,false
+Polypropylene,uncoated,40.77,35.24,10.411,92.369,5,1,51.405,true,true,false
+Sisal,uncoated,1.979,17.507,5.764,26.633,0,6,26.633,false,false,false
+Cotton,uncoated,31.239,38.462,8.498,69.962,3,3,57.885,true,true,false
+Nylon,alginate,12.607,24.759,8.202,45.626,0,6,45.626,false,false,false
+Polypropylene,alginate,16.896,39.256,9.753,57.674,2,4,51.216,true,true,false
+Sisal,alginate,3.582,16.547,6.387,27.562,0,6,27.562,false,false,false
+Cotton,alginate,36.31,27.719,8.271,56.245,0,6,56.245,true,true,false
