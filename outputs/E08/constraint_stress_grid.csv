@@ -1,0 +1,101 @@
+min_retention_pct,min_breaking_force_N,stress_case,n_candidates,candidates,status
+60,100,nominal,7,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3;Twisted cotton 5,illustrative; not working-load certification
+60,100,model_low,7,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3;Twisted cotton 5,illustrative; not working-load certification
+60,100,source_stress_low,6,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3,illustrative; not working-load certification
+60,100,envelope_low,6,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3,illustrative; not working-load certification
+60,200,nominal,5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5;Twisted cotton 5,illustrative; not working-load certification
+60,200,model_low,5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5;Twisted cotton 5,illustrative; not working-load certification
+60,200,source_stress_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+60,200,envelope_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+60,300,nominal,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+60,300,model_low,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+60,300,source_stress_low,2,Twisted jute 6;Braided cotton 5,illustrative; not working-load certification
+60,300,envelope_low,2,Twisted jute 6;Braided cotton 5,illustrative; not working-load certification
+60,400,nominal,1,Twisted jute 6,illustrative; not working-load certification
+60,400,model_low,1,Twisted jute 6,illustrative; not working-load certification
+60,400,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+60,400,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+60,600,nominal,1,Twisted jute 6,illustrative; not working-load certification
+60,600,model_low,1,Twisted jute 6,illustrative; not working-load certification
+60,600,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+60,600,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+70,100,nominal,6,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3,illustrative; not working-load certification
+70,100,model_low,6,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5;Braided cotton 3,illustrative; not working-load certification
+70,100,source_stress_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,100,envelope_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,200,nominal,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,200,model_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,200,source_stress_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,200,envelope_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+70,300,nominal,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+70,300,model_low,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+70,300,source_stress_low,2,Twisted jute 6;Braided cotton 5,illustrative; not working-load certification
+70,300,envelope_low,2,Twisted jute 6;Braided cotton 5,illustrative; not working-load certification
+70,400,nominal,1,Twisted jute 6,illustrative; not working-load certification
+70,400,model_low,1,Twisted jute 6,illustrative; not working-load certification
+70,400,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+70,400,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+70,600,nominal,1,Twisted jute 6,illustrative; not working-load certification
+70,600,model_low,1,Twisted jute 6,illustrative; not working-load certification
+70,600,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+70,600,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+80,100,nominal,5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5,illustrative; not working-load certification
+80,100,model_low,5,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Twisted jute 2;Braided cotton 5,illustrative; not working-load certification
+80,100,source_stress_low,2,Twisted jute 6;Twisted cotton 3,illustrative; not working-load certification
+80,100,envelope_low,2,Twisted jute 6;Twisted cotton 3,illustrative; not working-load certification
+80,200,nominal,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+80,200,model_low,4,Twisted jute 6;Twisted jute 3;Twisted cotton 3;Braided cotton 5,illustrative; not working-load certification
+80,200,source_stress_low,2,Twisted jute 6;Twisted cotton 3,illustrative; not working-load certification
+80,200,envelope_low,2,Twisted jute 6;Twisted cotton 3,illustrative; not working-load certification
+80,300,nominal,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+80,300,model_low,3,Twisted jute 6;Twisted jute 3;Braided cotton 5,illustrative; not working-load certification
+80,300,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+80,300,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+80,400,nominal,1,Twisted jute 6,illustrative; not working-load certification
+80,400,model_low,1,Twisted jute 6,illustrative; not working-load certification
+80,400,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+80,400,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+80,600,nominal,1,Twisted jute 6,illustrative; not working-load certification
+80,600,model_low,1,Twisted jute 6,illustrative; not working-load certification
+80,600,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+80,600,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+90,100,nominal,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,100,model_low,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,100,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+90,100,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+90,200,nominal,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,200,model_low,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,200,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+90,200,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+90,300,nominal,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,300,model_low,2,Twisted jute 6;Twisted jute 3,illustrative; not working-load certification
+90,300,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+90,300,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+90,400,nominal,1,Twisted jute 6,illustrative; not working-load certification
+90,400,model_low,1,Twisted jute 6,illustrative; not working-load certification
+90,400,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+90,400,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+90,600,nominal,1,Twisted jute 6,illustrative; not working-load certification
+90,600,model_low,1,Twisted jute 6,illustrative; not working-load certification
+90,600,source_stress_low,1,Twisted jute 6,illustrative; not working-load certification
+90,600,envelope_low,1,Twisted jute 6,illustrative; not working-load certification
+100,100,nominal,1,Twisted jute 6,illustrative; not working-load certification
+100,100,model_low,0,,illustrative; not working-load certification
+100,100,source_stress_low,0,,illustrative; not working-load certification
+100,100,envelope_low,0,,illustrative; not working-load certification
+100,200,nominal,1,Twisted jute 6,illustrative; not working-load certification
+100,200,model_low,0,,illustrative; not working-load certification
+100,200,source_stress_low,0,,illustrative; not working-load certification
+100,200,envelope_low,0,,illustrative; not working-load certification
+100,300,nominal,1,Twisted jute 6,illustrative; not working-load certification
+100,300,model_low,0,,illustrative; not working-load certification
+100,300,source_stress_low,0,,illustrative; not working-load certification
+100,300,envelope_low,0,,illustrative; not working-load certification
+100,400,nominal,1,Twisted jute 6,illustrative; not working-load certification
+100,400,model_low,0,,illustrative; not working-load certification
+100,400,source_stress_low,0,,illustrative; not working-load certification
+100,400,envelope_low,0,,illustrative; not working-load certification
+100,600,nominal,1,Twisted jute 6,illustrative; not working-load certification
+100,600,model_low,0,,illustrative; not working-load certification
+100,600,source_stress_low,0,,illustrative; not working-load certification
+100,600,envelope_low,0,,illustrative; not working-load certification
