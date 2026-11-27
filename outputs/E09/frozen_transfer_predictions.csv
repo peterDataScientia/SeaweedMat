@@ -1,0 +1,71 @@
+configuration,source,model,day,observed_pct,predicted_pct,error_pp
+Twisted cotton 5,Exact twine,constant,15,97.872103,100,2.127897
+Twisted cotton 5,Exact twine,constant,41,54.162953,100,45.837047
+Twisted cotton 5,Exact twine,zero_order,15,97.872103,89.821938,-8.050166
+Twisted cotton 5,Exact twine,zero_order,41,54.162953,72.179963,18.017009
+Twisted cotton 5,Exact twine,first_order,15,97.872103,89.308001,-8.564103
+Twisted cotton 5,Exact twine,first_order,41,54.162953,73.411991,19.249038
+Twisted cotton 5,Exact twine,weibull,15,97.872103,99.57493,1.702827
+Twisted cotton 5,Exact twine,weibull,41,54.162953,78.838466,24.675513
+Twisted cotton 5,Exact twine,lag_first_order,15,97.872103,100,2.127897
+Twisted cotton 5,Exact twine,lag_first_order,41,54.162953,73.956144,19.793191
+Twisted cotton 3,Exact twine,constant,15,97.872103,100,2.127897
+Twisted cotton 3,Exact twine,constant,41,54.162953,100,45.837047
+Twisted cotton 3,Exact twine,zero_order,15,97.872103,96.805964,-1.066139
+Twisted cotton 3,Exact twine,zero_order,41,54.162953,91.269636,37.106683
+Twisted cotton 3,Exact twine,first_order,15,97.872103,96.721829,-1.150275
+Twisted cotton 3,Exact twine,first_order,41,54.162953,91.292191,37.129238
+Twisted cotton 3,Exact twine,weibull,15,97.872103,98.747056,0.874953
+Twisted cotton 3,Exact twine,weibull,41,54.162953,91.833889,37.670935
+Twisted cotton 3,Exact twine,lag_first_order,15,97.872103,99.635286,1.763183
+Twisted cotton 3,Exact twine,lag_first_order,41,54.162953,90.605733,36.44278
+Twisted cotton 2,Exact twine,constant,15,97.872103,100,2.127897
+Twisted cotton 2,Exact twine,constant,41,54.162953,100,45.837047
+Twisted cotton 2,Exact twine,zero_order,15,97.872103,84.961214,-12.910889
+Twisted cotton 2,Exact twine,zero_order,41,54.162953,58.893986,4.731033
+Twisted cotton 2,Exact twine,first_order,15,97.872103,83.627403,-14.2447
+Twisted cotton 2,Exact twine,first_order,41,54.162953,61.341285,7.178332
+Twisted cotton 2,Exact twine,weibull,15,97.872103,98.759682,0.887579
+Twisted cotton 2,Exact twine,weibull,41,54.162953,62.75425,8.591297
+Twisted cotton 2,Exact twine,lag_first_order,15,97.872103,100,2.127897
+Twisted cotton 2,Exact twine,lag_first_order,41,54.162953,54.35444,0.191487
+Braided cotton 5,Exact twine,constant,15,97.872103,100,2.127897
+Braided cotton 5,Exact twine,constant,41,54.162953,100,45.837047
+Braided cotton 5,Exact twine,zero_order,15,97.872103,95.215562,-2.656541
+Braided cotton 5,Exact twine,zero_order,41,54.162953,86.922538,32.759584
+Braided cotton 5,Exact twine,first_order,15,97.872103,95.01649,-2.855614
+Braided cotton 5,Exact twine,first_order,41,54.162953,86.959537,32.796584
+Braided cotton 5,Exact twine,weibull,15,97.872103,98.492946,0.620842
+Braided cotton 5,Exact twine,weibull,41,54.162953,88.209834,34.046881
+Braided cotton 5,Exact twine,lag_first_order,15,97.872103,100,2.127897
+Braided cotton 5,Exact twine,lag_first_order,41,54.162953,87.057539,32.894586
+Braided cotton 3,Exact twine,constant,15,97.872103,100,2.127897
+Braided cotton 3,Exact twine,constant,41,54.162953,100,45.837047
+Braided cotton 3,Exact twine,zero_order,15,97.872103,90.610563,-7.261541
+Braided cotton 3,Exact twine,zero_order,41,54.162953,74.335538,20.172584
+Braided cotton 3,Exact twine,first_order,15,97.872103,89.77786,-8.094243
+Braided cotton 3,Exact twine,first_order,41,54.162953,74.472503,20.30955
+Braided cotton 3,Exact twine,weibull,15,97.872103,96.753487,-1.118616
+Braided cotton 3,Exact twine,weibull,41,54.162953,76.135296,21.972343
+Braided cotton 3,Exact twine,lag_first_order,15,97.872103,100,2.127897
+Braided cotton 3,Exact twine,lag_first_order,41,54.162953,74.104523,19.94157
+Braided cotton 2,Exact twine,constant,15,97.872103,100,2.127897
+Braided cotton 2,Exact twine,constant,41,54.162953,100,45.837047
+Braided cotton 2,Exact twine,zero_order,15,97.872103,90.405491,-7.466612
+Braided cotton 2,Exact twine,zero_order,41,54.162953,73.775009,19.612056
+Braided cotton 2,Exact twine,first_order,15,97.872103,89.614005,-8.258098
+Braided cotton 2,Exact twine,first_order,41,54.162953,74.101573,19.93862
+Braided cotton 2,Exact twine,weibull,15,97.872103,97.601031,-0.271073
+Braided cotton 2,Exact twine,weibull,41,54.162953,76.243572,22.080619
+Braided cotton 2,Exact twine,lag_first_order,15,97.872103,100,2.127897
+Braided cotton 2,Exact twine,lag_first_order,41,54.162953,73.188702,19.025749
+Zhou Cotton,Zhou graph,constant,15,97.872103,100,2.127897
+Zhou Cotton,Zhou graph,constant,41,54.162953,100,45.837047
+Zhou Cotton,Zhou graph,zero_order,15,97.872103,95.809662,-2.062441
+Zhou Cotton,Zhou graph,zero_order,41,54.162953,88.546409,34.383456
+Zhou Cotton,Zhou graph,first_order,15,97.872103,94.233643,-3.638461
+Zhou Cotton,Zhou graph,first_order,41,54.162953,85.015154,30.852201
+Zhou Cotton,Zhou graph,weibull,15,97.872103,81.778914,-16.093189
+Zhou Cotton,Zhou graph,weibull,41,54.162953,72.887572,18.724619
+Zhou Cotton,Zhou graph,lag_first_order,15,97.872103,94.233643,-3.638461
+Zhou Cotton,Zhou graph,lag_first_order,41,54.162953,85.015154,30.852201
